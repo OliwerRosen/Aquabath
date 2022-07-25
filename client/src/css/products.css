@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans:wght@400;500&display=swap");
+.products__main {
+  display: grid;
+  width: 100%;
+  margin: auto;
+  grid-template-columns: 1fr 600px 1fr;
+  grid-template-areas: "sl mc sr" "sl mc sr" "sl mc sr" "sl mc sr" "sl mc sr";
+}
+
+.emptySpaceLeft {
+  display: flex;
+  grid-area: sl;
+  width: 100%;
+}
+
+.emptySpaceRight {
+  display: flex;
+  grid-area: sr;
+  width: 100%;
+}
+
+.mainContent {
+  display: grid;
+  grid-area: mc;
+  width: 600px;
+}
+
+.categories {
+  display: flex;
+  height: 40px;
+}
+
+.categoryLinks {
+  width: 100%;
+  height: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: rgb(33, 101, 160);
+}
+
+.categoryLink {
+  display: flex;
+  padding: 4px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: medium;
+  color: rgba(233, 230, 230, 0.966);
+  text-decoration: none;
+}
+.categoryLink:hover {
+  color: black;
+}
+
+.categoryDisplay {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(10, 300px);
+  padding: 0px;
+  overflow: hidden;
+  border-color: rgb(226, 226, 226);
+  border-style: solid;
+  border-left: 5px;
+  border-right: 5px;
+}
+
+[class*=ItemContainer-] {
+  max-width: 100%;
+  display: grid;
+  margin: 5px;
+  border: 5px;
+  border-color: rgba(109, 109, 109, 0.336);
+  border-style: solid;
+  border-width: 0.01px;
+  background-color: rgb(247, 247, 247);
+  z-index: 1;
+  grid-template-areas: "I I I I I" "I I I I I" "I I I I I" "N N N N N" "P P P P P";
+  grid-template-columns: repeat(5, 1fr);
+}
+[class*=ItemContainer-] .ItemImgbox {
+  grid-area: I;
+  width: 100%;
+  height: 200px;
+}
+[class*=ItemContainer-] .ItemName {
+  grid-area: N;
+  display: flex;
+  font-family: "Noto Sans", sans-serif;
+  justify-content: center;
+}
+[class*=ItemContainer-] .ItemPrice {
+  display: flex;
+  grid-area: P;
+  font-family: "Noto Sans", sans-serif;
+  font-size: small;
+  justify-content: flex-end;
+  margin-right: 10px;
+}
+[class*=ItemContainer-] .ItemImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+}
+
+[class*=ItemContainer-]:hover {
+  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}/*# sourceMappingURL=products.css.map */

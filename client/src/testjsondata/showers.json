@@ -1,0 +1,72 @@
+[
+  {
+    "ArticleId" : 1,
+    "Name" : "Modern Shower",
+    "Price" : 20000,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/27xN9Xj.jpg"
+  },
+  {
+    "ArticleId" : 2,
+    "Name" : "Marble Shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/WI7VCpa.jpg"
+  },
+  {
+    "ArticleId" : 3,
+    "Name" : "Outside Shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/anEUtTH.jpg"
+  },
+  {
+    "ArticleId" : 4,
+    "Name" : "Round Outside Shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/IbeXJKn.jpg"
+  },
+  {
+    "ArticleId" : 5,
+    "Name" : "Round Shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/SNnyyCo.jpg"
+  },
+  {
+    "ArticleId" : 6,
+    "Name" : "Square round Shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/gbVMTza.jpg"
+  },
+  {
+    "ArticleId" : 7,
+    "Name" : "Square shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/Je1lyDe.jpg"
+  },
+  {
+    "ArticleId" : 8,
+    "Name" : "Built in shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/evHKokg.jpg"
+  },
+  {
+    "ArticleId" : 9,
+    "Name" : "Built in Tiled Shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/FlSGZ29.jpg"
+  },
+  {
+    "ArticleId" : 10,
+    "Name" : "Square Simple Shower",
+    "Price" : 2,
+    "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur at, voluptatibus repellendus laborum nemo itaque voluptatum dolor laudantium iure ipsum distinctio ipsam tempore incidunt quia ut debitis soluta quisquam nam quasi similique assumenda mollitia perspiciatis dolorum! Ipsum rem quis animi praesentium aliquid! Ex nostrum adipisci, modi asperiores dolorum nobis nam quae maxime rerum eaque nesciunt ab ducimus quos dolor! Consequatur dolor, ut, incidunt, laudantium consectetur necessitatibus maiores inventore alias libero voluptas architecto. Suscipit ratione doloribus harum voluptatem quod dolor facere tempora, voluptatum architecto nihil molestiae hic nam temporibus perferendis voluptatibus a velit nemo eaque laudantium. Numquam eveniet animi dolore error.",
+    "ImgUrl" : "https://i.imgur.com/anBEuMq.jpg"
+  }
+]

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans:wght@400;500&display=swap");
+//Colors
+$background-color: rgb(8, 8, 8);
+$light-blue-main: rgb(22, 94, 136);
+$light-blue-lesser: rgb(33, 101, 160);
+$text-color-logo: rgb(196, 192, 192);
+$text-color-navbarlinks: rgba(233, 230, 230, 0.966);
+
+@function weight($weight-name) {
+  @return map-get($font-weights, $weight-name);
+}
+@function font-type($font-name) {
+  @return map-get($font-types, $font-name);
+}
+@function font-size($font-size) {
+  @return map-get($font-sizes, $font-size);
+}
+
+//Fonts
+$font-weights: (
+  "regular": 400,
+  "medium": 500,
+  "bold": 700,
+  "very_bold": 1000,
+);
+$font-sizes: (
+  "x-small": x-small,
+  "small": small,
+  "medium": medium,
+  "large": large,
+  "x_large": x-large,
+);
+$font-type-navbar: "Source Sans Pro", sans-serif;
+$font-type-navbar2: "Open Sans", sans-serif;
+$font-type-heading: "Noto Sans", sans-serif;
